@@ -1,8 +1,8 @@
 ## Repo Numbers..
 
-***Public Repositories***(**1**)
+***Public Repositories*** (**1**)
 
-***Private Repositories***(**4**)
+***Private Repositories*** (**4**)
 
 ## View Statistics
 [![Discord](https://discord.c99.nl/widget/theme-4/720112607268307004.png)](https://github.com/Daekwon0609/)
